@@ -1,0 +1,2 @@
+# slstatus
+statusbar for dwm
